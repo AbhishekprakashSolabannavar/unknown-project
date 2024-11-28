@@ -1,2 +1,2 @@
 # unknown-project
-unexceptional
+unexceptional.
